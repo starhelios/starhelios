@@ -17,6 +17,4 @@
 <a href="https://www.linkedin.com/in/jackson-noda-5b0a9a1a4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="starhelios" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starhelios&layout=compact" alt="starhelios" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starhelios&show_icons=true&theme=dracula&count_private=true&exclude_repo=laravel-project,vuejs-laravel-project&hide=php" alt="starhelios" /></p>
