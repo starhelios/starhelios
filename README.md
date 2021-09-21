@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starhelios&layout=compact" alt="starhelios" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starhelios&show_icons=true&theme=dracula" alt="starhelios" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starhelios&show_icons=true&theme=dracula&count_private=true&exclude_repo=laravel-project" alt="starhelios" /></p>
