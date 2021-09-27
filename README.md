@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently looking for **100% remote & long-term contract positions**
 
-- 😄 All of my projects are available at [https://jackson-noda.com](https://jackson-noda.com)
-
 - 💬 Ask me about **Full Stack Web and Mobile App Dev**
 
 - 📫 How to reach me **starhelios94@gmail.com**
