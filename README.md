@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starhelios" alt="starhelios" /> </p>
 
-- 🌱 I’m currently looking for **100% remote & long-term contract positions**
+- 🌱 I’m currently looking for **100% remote & full-time long-term positions**
 
 - 💬 Ask me about **Full Stack Web and Mobile App Dev**
 
